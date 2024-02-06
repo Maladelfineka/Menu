@@ -19,3 +19,7 @@ h2 {
 .body {
     display: flex;
 }
+
+img {
+    width: 400px;
+}
