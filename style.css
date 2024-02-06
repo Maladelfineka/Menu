@@ -1,11 +1,21 @@
 body {
-    background-color: blanchedalmond;
-}
-
-h2 {
-    color: rgb(177, 96, 253);
+    background-color: rgb(144, 194, 212);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 h1 {
-    color: rgb(129, 69, 186);
+    color: #0b527e;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: #387aa3;
+}
+
+.body {
+    display: flex;
 }
